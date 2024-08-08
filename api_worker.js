@@ -143,4 +143,3 @@ async function deletelog(userName, accountNumber,antype) {
 
 
 
-
